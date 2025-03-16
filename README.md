@@ -5,26 +5,22 @@ Este projeto foi desenvolvido como parte do curso de Front-End da EBAC, durante 
 **Funcionalidades**
 
 •	Utilização de plugins jQuery para melhorar a experiência de navegação.
+
 •	Efeitos visuais e interatividade com a interface do usuário.
+
 •	Manipulação dinâmica de elementos HTML utilizando jQuery.
 
 **Tecnologias Utilizadas**
 
 •	HTML5
+
 •	CSS3
+
 •	JavaScript
+
 •	jQuery
+
 •	Plugins jQuery: Diferentes plugins foram integrados ao projeto para funcionalidades como carrosséis de imagens, validação de formulários, e efeitos de animação.
-
-**Como Executar**
-
-1.	Clone o repositório:
-git clone https://github.com/natsalete/EBAC-Motors.git
-2.	Abra o arquivo index.html em seu navegador para visualizar o projeto.
-Estrutura do Projeto
-•	index.html - Página principal.
-•	css/ - Estilos CSS utilizados no projeto.
-•	js/ - Scripts JavaScript, incluindo jQuery e os plugins utilizados.
 
 **Aprendizado**
 
