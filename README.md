@@ -1,11 +1,17 @@
 ### **EBAC-Motors** ###
 
 📎 **Sumário**
+
 •	📌 Resumo do Projeto
+
 •	📂 Temas abordados
+
 •	✔️ Tecnologias Utilizadas
+
 • ✔  Aprendizado
+
 •	💻 Demonstração
+
 •	🙋 Autora
 
 📌 **Resumo do Projeto**
@@ -36,10 +42,10 @@ Este projeto foi desenvolvido como parte do curso de Front-End da EBAC, durante 
 
 Este projeto foi criado durante o módulo de Plugins jQuery da EBAC, onde aprendi a integrar e utilizar plugins jQuery para criar uma interface mais rica e dinâmica.
 
-### 💻 **Demonstração** ###
+💻 **Demonstração**
 
 Para visualizar uma prévia do projeto [clique aqui](https://ebac-motors-delta-ten.vercel.app/)
 
-### 🙋 **Autora** ###
+🙋 **Autora**
 
 [Katiadantass](https://github.com/Katiadantass)
